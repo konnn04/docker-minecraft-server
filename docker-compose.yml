@@ -13,6 +13,7 @@ services:
       VERSION: "26.1.2"
       FORGE_VERSION: "64.0.0"
       MEMORY: "4096M"
+      MODS_FILE: /extras/mods.txt
       ICON: "https://media.forgecdn.net/avatars/thumbnails/1029/538/256/256/6385515\
         93273353989.png"
       OVERRIDE_ICON: "true"
